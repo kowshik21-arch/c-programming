@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main(){
+int a=10;
+int b=5;
+printf("%d"\n,a+b);
+int c=15;
+int d=15;
+printf("%d",c+d);
+}
